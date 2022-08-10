@@ -5,4 +5,4 @@ This is a Tableau workbook which provides the visualization of the bus incidents
 
 The visualization link for tableau-public
 
-https://public.tableau.com/app/profile/roja.kandula/viz/AirBnBProject_16597306992810/Dashboard1
+(https://public.tableau.com/app/profile/roja.kandula/viz/DataVisualizationBusSaftey/Dashboard1)
